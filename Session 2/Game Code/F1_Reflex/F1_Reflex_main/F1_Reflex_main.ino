@@ -10,7 +10,7 @@ F1
 Can you clear all 4 level ? lets find out 
 
 Author : Karan Khaswal 
-Brought to you by : Code&Play Workshop 
+Brought to you by : Build&Play Workshop 
 Company : Athena Education  
 */
 

@@ -1,8 +1,8 @@
 #include <NewPing.h>
 
 // Pins
-const int trigPin = 8;
-const int echoPin = 7;
+const int trigPin = 7;
+const int echoPin = 8;
 const int maxDistance = 50;  // Maximum distance we want to measure (in cm)
 
 // Initialize NewPing instance
